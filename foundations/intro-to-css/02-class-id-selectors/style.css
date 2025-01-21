@@ -1,0 +1,20 @@
+.impar {
+    background-color: rgb(202, 136, 136);
+    font-family: Verdana, sans-serif;
+
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
